@@ -12,7 +12,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:8e2de2&height=200&section=header&text=Aarav%20|%20Developer%20%26%20Designer&fontSize=35&fontAlignY=35&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:8e2de2&height=200&section=header&text=Aarav%20%7C%20Developer%20%26%20Designer&fontSize=35&fontAlignY=35&animation=fadeIn"
     alt="Aarav developer and designer banner"
   />
 </p>
@@ -213,7 +213,7 @@ Web Dev     █████████░ 85%
 ### 🏆 Trophies
 
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=aaravdb10&theme=radical&no-frame=true&row=1&column=6"
+  src="https://github-profile-trophy-liard-delta.vercel.app/?username=aaravdb10&theme=radical&no-frame=true&row=1&column=6"
   alt="GitHub achievement trophies"
 />
 
@@ -242,13 +242,13 @@ Web Dev     █████████░ 85%
 <div align="center">
   <a href="https://open.spotify.com/user/31m5s54ldgssjeyufqx5dwe7srpi?si=8484309e2c88421c">
     <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5s54ldgssjeyufqx5dwe7srpi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true"
+      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31m5s54ldgssjeyufqx5dwe7srpi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true"
       alt="Spotify profile card"
     />
   </a>
 </div>
 
-> ℹ️ Your previous Spotify card URL used a custom Novatorem deployment (`novatorem-pi-teal.vercel.app`). If that deployment is down/misconfigured, GitHub cannot render the image. This card uses a public Spotify card endpoint instead.
+> ℹ️ If the Spotify card is blank, open [Connect with Spotify](https://spotify-github-profile.kittinanx.com/api/login) once to authorize your account for the public card service.
 
 ---
 
