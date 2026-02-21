@@ -242,7 +242,7 @@ Web Dev     █████████░ 85%
 <div align="center">
   <a href="https://open.spotify.com/user/31m5s54ldgssjeyufqx5dwe7srpi?si=8484309e2c88421c">
     <img 
-      src="https://novatorem-aaravdb10.vercel.app/api"
+      src="https://novatorem-pi-teal.vercel.app/api"
       alt="Currently playing Spotify track"
     />
   </a>
