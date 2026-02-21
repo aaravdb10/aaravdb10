@@ -284,6 +284,12 @@ Web Dev     █████████░ 85%
   alt="Random developer quote"
 />
 
+<img
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V4Y3drMnVjOTN4bG15ZXVhZ2NrdW1vM2VhaDFlaTZhZ3BnaWhrYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"
+  width="100%"
+  alt="Animated illustration of code being typed"
+/>
+
 <!-- ===================================================== -->
 <!-- OPTIONAL ADVANCED VISUALS (ENABLE IF INSTALLED) -->
 <!-- GitHub 3D skyline, Holopin badges, Metrics dashboard -->
