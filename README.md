@@ -242,11 +242,13 @@ Web Dev     █████████░ 85%
 <div align="center">
   <a href="https://open.spotify.com/user/31m5s54ldgssjeyufqx5dwe7srpi?si=8484309e2c88421c">
     <img 
-      src="https://novatorem-pi-teal.vercel.app/api/spotify"
-      alt="Currently playing Spotify track"
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5s54ldgssjeyufqx5dwe7srpi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true"
+      alt="Spotify profile card"
     />
   </a>
 </div>
+
+> ℹ️ Your previous Spotify card URL used a custom Novatorem deployment (`novatorem-pi-teal.vercel.app`). If that deployment is down/misconfigured, GitHub cannot render the image. This card uses a public Spotify card endpoint instead.
 
 ---
 
