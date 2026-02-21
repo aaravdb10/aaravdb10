@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212259407-6c6b4f3b-bf7f-4a0a-bc52-6e9d1a0d7a9f.gif" width="100%">
+
 <!-- Hero Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:8e2de2&height=200&section=header&text=Aarav%20|%20Developer%20%26%20Designer&fontSize=35&fontAlignY=35&animation=fadeIn" />
@@ -117,6 +119,12 @@ https://leetcard.jacoblin.cool/YOURID
 
 ---
 
+https://github.com/yoshi389111/github-profile-3d-contrib
+
+https://holopin.io/
+
+https://github.com/lowlighter/metrics
+
 ---
 
 ### ⏳ Weekly Coding Time
@@ -135,6 +143,8 @@ https://github.com/lowlighter/metrics
 <div align="center">
   <img src="https://raw.githubusercontent.com/aaravdb10/aaravdb10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaravdb10&theme=tokyo-night" />
 
 ### 🎵 Now Playing
 <div align="center">
