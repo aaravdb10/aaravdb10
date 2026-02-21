@@ -60,7 +60,7 @@
 
 ### 🎵 Now Playing
 <div align="center">
-  <a href="https://open.spotify.com/user/spotify:user:31m5s54ldgssjeyufqx5dwe7srpi">
+  <a href="https://open.spotify.com/user/31m5s54ldgssjeyufqx5dwe7srpi?si=8484309e2c88421c" target="_blank">
     <img src="https://novatorem-aaravdb10.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </div>
