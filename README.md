@@ -287,7 +287,7 @@ Web Dev     █████████░ 85%
 <img
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V4Y3drMnVjOTN4bG15ZXVhZ2NrdW1vM2VhaDFlaTZhZ3BnaWhrYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"
   width="100%"
-  alt="Animated coding visual"
+  alt="Animated illustration of code being typed"
 />
 
 <!-- ===================================================== -->
