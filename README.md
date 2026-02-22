@@ -129,8 +129,9 @@ Web Dev     █████████░ 85%
 <!-- ================= COMPETITIVE CODING ================ -->
 <!-- ===================================================== -->
 
-### 🧩 Coding Profiles
+<!--
 
+### 🧩 Coding Profiles
 <p align="center">
   <a href="https://leetcode.com/YOURID">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode profile"/>
@@ -144,7 +145,7 @@ Web Dev     █████████░ 85%
 </p>
 
 <img src="https://leetcard.jacoblin.cool/YOURID" alt="LeetCode stats card"/>
-
+-->
 ---
 
 <!-- ===================================================== -->
@@ -179,6 +180,7 @@ Web Dev     █████████░ 85%
 <!-- ================= ADVANCED METRICS ================== -->
 <!-- ===================================================== -->
 
+<!--
 ### 📊 Detailed GitHub Metrics
 
 <img 
@@ -196,7 +198,7 @@ Web Dev     █████████░ 85%
   width="48%"
   alt="Most committed language"
 />
-
+-->
 ---
 
 <!-- ===================================================== -->
@@ -248,8 +250,9 @@ Web Dev     █████████░ 85%
   </a>
 </div>
 
+<!-- 
 > ℹ️ If the Spotify card is blank, open [Connect with Spotify](https://spotify-github-profile.kittinanx.com/api/login) once to authorize your account for the public card service.
-
+-->
 ---
 
 <!-- ===================================================== -->
