@@ -240,9 +240,9 @@ Web Dev     █████████░ 85%
 ### 🎵 Now Playing
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31m5s54ldgssjeyufqx5dwe7srpi?si=8484309e2c88421c">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5s54ldgssjeyufqx5dwe7srpi&redirect=true">
     <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31m5s54ldgssjeyufqx5dwe7srpi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true"
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5s54ldgssjeyufqx5dwe7srpi&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light"
       alt="Spotify profile card"
     />
   </a>
