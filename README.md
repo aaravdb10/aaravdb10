@@ -4,6 +4,12 @@
 <!-- ===================================================== -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212259407-6c6b4f3b-bf7f-4a0a-bc52-6e9d1a0d7a9f.gif" width="100%" alt="Animated coding divider banner" />
+<!--
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8e2de2,100:ff0000&height=120&section=footer" alt="Animated gradient wave divider"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="350" alt="Developer working illustration"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Animated brain learning illustration"/>
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250" alt="Digital DNA animation"/>
+-->
 
 <!-- ===================================================== -->
 <!-- ====================== HERO BANNER ================== -->
@@ -12,12 +18,12 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:8e2de2&height=200&section=header&text=Aarav%20%7C%20Developer%20%26%20Designer&fontSize=35&fontAlignY=35&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff0000,100:8e2de2&amp;height=200&amp;section=header&amp;text=Aarav%20Developer%20%26%20Designer&amp;fontSize=35&amp;fontAlignY=35&amp;animation=fadeIn&amp;reversal=false"
     alt="Aarav developer and designer banner"
   />
 </p>
 
-<h1 align="center">Hi there, I'm Aarav! 👋</h1>
+<h1 align="center">Hi there, I'm Aarav! 🙋</h1>
 
 <!-- ===================================================== -->
 <!-- =================== TYPING INTRO ==================== -->
