@@ -1,4 +1,17 @@
 <!-- ===================================================== -->
+<!-- ====================== HERO BANNER ================== -->
+<!-- Personal branding + first impression -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:8e2de2&height=200&section=header&text=Aarav%20Developer%20%26%20Designer&fontSize=35&fontAlignY=35&animation=fadeIn&reversal=false"
+    width="100%"
+    alt="Aarav developer and designer banner"
+  />
+</p>
+
+<!-- ===================================================== -->
 <!-- ================== TOP ANIMATED DIVIDER ============== -->
 <!-- Purely visual intro animation for premium feel -->
 <!-- ===================================================== -->
@@ -10,18 +23,6 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Animated brain learning illustration"/>
 <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250" alt="Digital DNA animation"/>
 -->
-
-<!-- ===================================================== -->
-<!-- ====================== HERO BANNER ================== -->
-<!-- Personal branding + first impression -->
-<!-- ===================================================== -->
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff0000,100:8e2de2&amp;height=200&amp;section=header&amp;text=Aarav%20Developer%20%26%20Designer&amp;fontSize=35&amp;fontAlignY=35&amp;animation=fadeIn&amp;reversal=false"
-    alt="Aarav developer and designer banner"
-  />
-</p>
 
 <h1 align="center">Hi there, I'm Aarav! 🙋</h1>
 
