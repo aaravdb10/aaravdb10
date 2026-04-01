@@ -68,29 +68,29 @@
   </a>
 </p>
 
----
+
 
 <!-- ===================================================== -->
 <!-- ====================== ABOUT ======================== -->
 <!-- Personal story / human connection -->
 <!-- ===================================================== -->
 
-### 👨‍💻 About Me
+<!--### 👨‍💻 About Me
 
 - 🔭 Exploring **UI/UX design** and immersive web animations  
 - 🌱 Learning **Java, OOPs & Data Structures and Algorithms**  
 - 📝 Documenting my journey on my **personal blog**  
 - 🗣️ Intermediate **German** speaker (3+ years)  
 - ⚡ Football, swimming & mobile photography enthusiast  
+-->
 
----
 
 <!-- ===================================================== -->
 <!-- =================== TECH STACK ====================== -->
 <!-- Visual skill credibility -->
 <!-- ===================================================== -->
 
-### 🛠️ Tech Stack & Tools
+<!--### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -99,37 +99,37 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
+-->
 
----
 
 <!-- ===================================================== -->
 <!-- ================= SKILL VISUALIZATION =============== -->
 <!-- ===================================================== -->
 
-### ⚡ Skill Progress
+<!--### ⚡ Skill Progress
 
 Java        █████████░ 85%  
 Python      ████████░░ 75%  
 UI/UX       █████████░ 90%  
 DSA         ███████░░░ 70%  
 Web Dev     █████████░ 85%
+-->
 
----
 
 <!-- ===================================================== -->
 <!-- ================= FEATURED PROJECTS ================= -->
 <!-- MOST IMPORTANT SECTION FOR RECRUITERS -->
 <!-- ===================================================== -->
 
-### 🚀 Featured Projects
+<!--### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
 | 🔗 [Project Name](repo link) | Short impact description | HTML, CSS, JS |
 | 🔗 [Project Name](repo link) | Problem it solves | Java |
 | 🔗 [Project Name](repo link) | Why it's interesting | Python |
+-->
 
----
 
 <!-- ===================================================== -->
 <!-- ================= COMPETITIVE CODING ================ -->
@@ -152,13 +152,13 @@ Web Dev     █████████░ 85%
 
 <img src="https://leetcard.jacoblin.cool/YOURID" alt="LeetCode stats card"/>
 -->
----
+
 
 <!-- ===================================================== -->
 <!-- ================= CORE GITHUB STATS ================= -->
 <!-- ===================================================== -->
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <div align="center">
   <img 
@@ -179,8 +179,8 @@ Web Dev     █████████░ 85%
     alt="GitHub contribution streak"
   />
 </div>
+-->
 
----
 
 <!-- ===================================================== -->
 <!-- ================= ADVANCED METRICS ================== -->
@@ -205,40 +205,40 @@ Web Dev     █████████░ 85%
   alt="Most committed language"
 />
 -->
----
+
 
 <!-- ===================================================== -->
 <!-- ================= VISUAL ANALYTICS ================== -->
 <!-- ===================================================== -->
 
-### 📈 Activity Graph
+<!--### 📈 Activity Graph
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=aaravdb10&theme=react-dark&hide_border=true"
   alt="GitHub contribution activity graph"
 />
-
-### 🏆 Trophies
+-->
+<!--### 🏆 Trophies
 
 <img 
   src="https://github-profile-trophy-liard-delta.vercel.app/?username=aaravdb10&theme=radical&no-frame=true&row=1&column=6"
   alt="GitHub achievement trophies"
 />
+-->
 
----
 
 <!-- ===================================================== -->
 <!-- ================= CODING TIME TRACKER =============== -->
 <!-- Requires WakaTime account -->
 <!-- ===================================================== -->
 
-### ⏳ Weekly Coding Time
+<!--### ⏳ Weekly Coding Time
 
 <img 
   src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical"
   alt="Weekly coding time stats"
 />
-
+-->
 ---
 
 <!-- ===================================================== -->
