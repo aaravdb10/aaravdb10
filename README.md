@@ -54,7 +54,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/aarav-gandhi-03055b232/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link"/>
   </a>
   <a href="YOUR_PORTFOLIO">
@@ -63,7 +63,7 @@
   <a href="YOUR_BLOG">
     <img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=hashnode" alt="Blog link"/>
   </a>
-  <a href="mailto:YOUREMAIL">
+  <a href="mailto:aaravb10@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Send email"/>
   </a>
 </p>
