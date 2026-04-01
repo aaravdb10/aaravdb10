@@ -32,7 +32,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=24&color=F70000&center=true&vCenter=true&width=500&lines=3rd-year+Tech+Enthusiast;UI%2FUX+Design+%26+Web+Animation;Learning+DSA+%26+Java;Football+%26+Photography+Lover"
+    src="https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&center=true&vCenter=true&width=500&lines=3rd-year+Tech+Enthusiast;UI%2FUX+Design+%26+Web+Animation;Learning+DSA+%26+Java;Football+%26+Photography+Lover"
     alt="Typing animation showing Aarav interests"
   />
 </div>
